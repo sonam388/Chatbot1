@@ -1,0 +1,3 @@
+stremlit
+sciket-learn
+joblib
